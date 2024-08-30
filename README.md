@@ -3,7 +3,7 @@ Discord bot for storing rewards like accounts, gift cards, and other stuff. Peop
 
 # Setup
 
-[!] install python 3.12 and add to path (Only If You Don't Have It Installed)
+[ ! ] install python 3.12 and add to path (Only If You Don't Have It Installed)
 
 1. Open setup.bat
 2. Put your bot's token in settings.json
